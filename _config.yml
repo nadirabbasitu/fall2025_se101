@@ -25,7 +25,7 @@ include:false transitions:
 # Links
 
 # chagning for progress sheet
-courseDetails_sheet_url : 'https://script.google.com/macros/s/AKfycbxGO6zvg6dvjPXuBh1hLorpWNz-QDW7mdC5ZQbqhjjnmLPexNglpuvWZ7tp5azMl9b2og/exec'
+courseDetails_sheet_url : 'https://script.google.com/macros/s/AKfycbxk7EeDg-_sZZNn-0y2DbAGAYYwGYIpjR24AZdiwV01YZRxA8Faz0BQINeu1oIbltMB/exec'
 url: 'https://nadirabbasitu.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 #title: Object Oriented Programming - CE
 tagline: Fall 2025 - SE101 - CFP
